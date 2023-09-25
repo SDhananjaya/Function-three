@@ -1,0 +1,20 @@
+body{
+    background-color: lightskyblue;
+}
+div{
+    background-color: rgb(224, 224, 13);
+   display: inline-block;
+   margin-left: 30%;
+   border-radius: 50px;
+  
+}
+input{
+    margin-left:28%;
+    padding: 6px;
+    margin-top: 10px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    border:none;
+    box-shadow: 0 0 6px rgb(225, 2, 2);
+}
